@@ -11,7 +11,7 @@ _Human pose estimation from video is the task of recognizing full-body gesture c
 ## ***Setup*** 
 - 1. _Open Pycharm terminal and run  `pip install -r requirements.txt`_
 
-- 2. _Run `python xxxx.py`_
+- 2. _Run `python PoseEstimation.py`_
 
 
 ## ***Visualization***
