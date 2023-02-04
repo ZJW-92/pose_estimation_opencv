@@ -16,11 +16,7 @@ _Human pose estimation from video is the task of recognizing full-body gesture c
 
 ## ***Visualization***
 
-<a href="sample2.gif"><img src="gif/sample2.gif" width="33%" align="center"></a>
-<a href="sample4.gif"><img src="gif/sample4.gif" width="32%" align="center"></a>
-<a href="sample7.gif"><img src="gif/sample7.gif" width="32%" align="center"></a>
-
-<a href="sample1.gif"><img src="gif/sample1.gif" width="26%" align="center"></a>
-<a href="sample5.gif"><img src="gif/sample5.gif" width="35%" align="center"></a>
-<a href="sample6.gif"><img src="gif/sample6.gif" width="35%" align="center"></a>
-
+<a href="sample2.gif"><img src="gif/sample2.gif" width="49%" align="center"></a>
+<a href="sample1.gif"><img src="gif/sample1.gif" width="49%" align="center"></a>
+<a href="sample3.gif"><img src="gif/sample3.gif" width="49%" align="center"></a>
+<a href="sample5.gif"><img src="gif/sample5.gif" width="46%" align="center"></a> 
